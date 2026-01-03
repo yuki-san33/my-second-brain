@@ -8,30 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86a8e12c91d4c765",
+            "id": "02e6cd4fc724b8da",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "カンバンタスクがmdで作成可能.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "カンバンタスクがmdで作成可能"
+            }
+          },
+          {
+            "id": "b06fe3306db1bcbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianのグラフビュー.md",
+                "file": "00_Memo/SecondBrainリポジトリ.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "20251113_Obsidianのグラフビュー"
+              "title": "SecondBrainリポジトリ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,9 +99,34 @@
               "icon": "lucide-bookmark",
               "title": "ブックマーク"
             }
+          },
+          {
+            "id": "ceae12fb2d397c0f",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "c721147ad4383c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c67224cd923c2c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,34 +141,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b2d104cb3ab09e3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "バックリンク"
-            }
-          },
-          {
             "id": "18cec792b2e9b1c3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "00_Memo/SecondBrainリポジトリ.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "SecondBrainリポジトリからのアウトゴーイングリンク"
             }
           },
           {
@@ -180,22 +204,37 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "fa420e89805f3b41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Memo/無題のファイル.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "無題のファイルへのバックリンク"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -203,47 +242,51 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
-      "obsidian-kanban:カンバンボードを新規作成": false
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "86a8e12c91d4c765",
+  "active": "b06fe3306db1bcbd",
   "lastOpenFiles": [
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-url-parser.js.map",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-url-parser.js",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-import-parser.js.map",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-import-parser.js",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-icss-parser.js.map",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-icss-parser.js",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/index.js.map",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/index.js",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/runtime/getUrl.js.map",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/runtime/getUrl.js",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/runtime/api.js.map",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/compiled/@babel/runtime/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/compiled/regenerator-runtime/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/compiled/react-refresh/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/compiled/react-is/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/semver/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/glob-parent/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/glob-parent/CHANGELOG.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/brace-expansion/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/eslint-plugin/node_modules/ignore/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@mui/utils/node_modules/react-is/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@mui/material/node_modules/react-is/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@emotion/babel-plugin/node_modules/convert-source-map/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/tsconfig-paths/node_modules/json5/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/tsconfig-paths/node_modules/json5/LICENSE.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/tinyglobby/node_modules/picomatch/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/tinyglobby/node_modules/fdir/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/sharp/node_modules/semver/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/node_modules/postcss/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/mongoose/lib/drivers/SPEC.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/is-bun-module/node_modules/semver/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/fast-glob/node_modules/glob-parent/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/fast-glob/node_modules/glob-parent/CHANGELOG.md",
+    "カンバンタスクがmdで作成可能.md",
+    "00_Memo/SecondBrainリポジトリ.md",
+    "02_Daily/2026/2026-01/2026-01-03/2026-01-03-Daily.md",
+    "02_Daily/2026/2026-01/2026-01-03",
+    "02_Daily/2026/2026-01",
+    "02_Daily/2026",
+    "03_Input/20251224_AI活用と情報整理についてのメモ.md",
+    "00_Memo/無題のカンバン.md",
+    "03_Input/hot-topic-cursor-update.md",
+    "03_Input/this-week-focus.md",
+    "03_Input/this-month-goals.md",
+    "03_Input/reference-ai-tools-comparison.md",
+    "00_Memo/obsidian設定の件と間隔反復.md",
+    "01_Inbox/Untitled",
+    "01_Inbox/20260102_Obsidian設定変更メモ.md",
+    "07_System/Settings/2026-01-02-Obsidian設定変更メモ.md",
+    "00_Memo/無題のファイル 1.md",
+    "00_Memo",
+    "09_Configs/01_Extra/Pasted image 20260102164648.png",
+    "00_Memo/ObsidianでExcalidrawを開くとき、 重くてカクつくのが気になってた そこでアクティビティモニタを確認してみたところ、  spotlightknowledgedd てやつが約 8.9GB もメモリを使用し、スワップも 10GB 発生していて、明らかにメモリを圧迫している状態だった。  試しに Spotlight の検索対象から Obsidian Vault を除外 してみたところ、明らかに軽くなった！.md",
+    "00_Memo/ObsidianでExcalidrawを開くとき、 重くてカクつくのが気になってた そこでアクティビティモニタを確認してみたところ、  spotlightknowledgedd てやつが約 8.9GB もメモリを使用し、スワップも 10GB 発生していて、明らかにメモリを圧迫している状態だった。  試しに Spotlight の検索対象から Obsidian Vault を除外 してみたところ、明らかに軽くなった！  もっと早くやってればよかったね。。.md",
+    "AGENTS.md",
+    "00_Memo/obsidianの設定を一部修正した.md",
+    "99_Archive/obsidianの設定を一部修正した.md",
+    "00_Memo/k.md",
+    "00_Memo/Readable line length.md",
+    "aaaaaaaaa.md",
+    "09_Configs/01_Extra",
+    "09_Configs",
+    "無題のファイル 2.md",
+    "無題のファイル 1.md",
+    "無題のファイル.md",
+    "02_Daily/2025/2025-11/2025-11-13/2025-11-13-Obsidianセミナー-アジェンダ.md",
+    "02_Daily/2025/2025-11/2025-11-13/2025-11-13-Daily.md",
+    "02_Daily/2025/2025-12/2025-12-24",
+    "02_Daily/2025/2025-12",
+    "99_Archive",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/public/window.svg",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/public/vercel.svg",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/public/next.svg",
@@ -253,7 +296,6 @@
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/vercel.svg",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/next.svg",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/globe.svg",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/file.svg",
     "無題のファイル.canvas"
   ]
 }

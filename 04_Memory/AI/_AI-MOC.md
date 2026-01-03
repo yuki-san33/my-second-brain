@@ -7,6 +7,7 @@
 - [[AI/Tools/開発AI爆速化-Cursor-Windsurf考察]] - CursorとWindsurfによる開発の進化
 ### Techniques
 - [[AI/Techniques/Prompting/prompt-engineering-basics]]
+- [[AI/Techniques/Prompting/プロンプト作成の基本コツ]] - 効果的なプロンプト作成の4原則
 - [[AI/Techniques/RAG/rag-architecture]]
 - [[AI/Techniques/Agent-Development/multi-agent-systems]]
 ### Concepts

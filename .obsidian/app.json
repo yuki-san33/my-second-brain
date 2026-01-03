@@ -1,6 +1,10 @@
 {
-  "newFileLocation": "current",
-  "attachmentFolderPath": "./",
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "09_Configs/01_Extra",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileFolderPath": "00_Memo",
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "readableLineLength": false
 }

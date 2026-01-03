@@ -6,5 +6,9 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "recent-files-obsidian",
+  "reveal-active-file-button",
+  "vertical-tabs",
+  "2hop-links-plus"
 ]
